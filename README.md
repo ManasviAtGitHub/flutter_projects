@@ -6,7 +6,7 @@
 
 ## Screenshots from chat_gpt_app
 
-![LLM's eg](https://github.com/ManasviAtGitHub/flutter_projects/assets/17096893/a58f8a26-e6fc-411b-9c56-10a23aa2994c)
+![Untitled__1__AdobeExpress](https://github.com/ManasviAtGitHub/flutter_projects/assets/17096893/2982973b-7789-4b56-984c-f6117728c475)
 
 
 ## Screenshots from voice assistant app
