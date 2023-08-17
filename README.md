@@ -16,3 +16,6 @@
 ### Working with GPT-3.5
 
 ![GPT 3 5 eg](https://github.com/ManasviAtGitHub/flutter_projects/assets/17096893/1500f085-2a0e-4c44-ac91-e4aa5bb538a5)
+
+### Furniture App UI
+![Untitled (2)](https://github.com/ManasviAtGitHub/flutter_projects/assets/17096893/4c9aa747-17ba-4eab-b8bb-a89644f4fdb6)
